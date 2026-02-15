@@ -26,7 +26,7 @@ for(let i = 4;i>=0;i--){
         console.log("Not a Palindrome");
     }
 }
-
+//Compare and count
 const word = "programming";
 let count = 0;
 
